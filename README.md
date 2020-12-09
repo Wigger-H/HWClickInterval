@@ -1,1 +1,2 @@
 # HWClickInterval
+通过设置UIButton的点击时间间隔，控制UIButton被频繁点击
